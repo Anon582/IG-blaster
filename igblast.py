@@ -17,6 +17,7 @@ __status__ = "being developed"
 
 
 from time import time, sleep
+from requests import Session
 from random import choice
 from multiprocessing import Process
 
